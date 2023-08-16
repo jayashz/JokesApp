@@ -14,6 +14,20 @@ body{
     font-size: 40px;
 
 }
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+}
+.hr{
+    margin-top: -30px;
+    border: #94ADD7 solid 1px;
+    width: 15%;
+
+}
 li{
     margin: 40px 0;
     list-style: none;
